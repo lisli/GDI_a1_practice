@@ -10,6 +10,9 @@ Making progress using GitHub!
 
 - Darlene 5/24/13
 
+Hola! 
+-Lisa 6/10/13
+
 PS: making another change to test osxkeychain to eliminate need to type
     username / password for every push
 
